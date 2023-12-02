@@ -1,0 +1,90 @@
+.navbar{
+    background-color:aliceblue;
+    color: white;
+}
+.navbar img{
+    color: white;
+}
+.navbar ul li {
+    padding: 10px;
+    margin: 0%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navbar ul li a{
+    color: white;
+    background-color: darkblue;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.navbar ul li a:hover{
+    color: brown;
+}
+.container a .btn{
+    background-color:green;
+    color: #fff;
+    padding-top: 5px;
+    margin: 10px;
+    border-radius: 0%;
+}
+ .text{
+   text-align: justify;
+   text-align: center;
+   padding: 10px;
+   background-color: black;
+   color: #fff;
+   
+}
+.dropdown-menu li a{
+    text-decoration: none;
+    background-color: cadetblue;
+}
+/* Style the container-fluid */
+.container-fluid {
+    background-color: #000; /* Background color */
+    padding-top: 30px; /* Top padding */
+}
+
+/* Style the container */
+.container {
+    text-align: center; /* Center the content within the container */
+    color: #fff;
+}
+
+/* Style the columns */
+.col-md-3 {
+    margin-bottom: 20px; /* Add some space between columns */
+}
+
+/* Style the image */
+.img-fluid {
+    max-width: 100%; /* Ensure the image doesn't exceed its container */
+}
+
+/* Style the paragraph */
+p {
+    font-size: 16px; /* Font size for the paragraph */
+    color: #333; /* Text color */
+}
+
+/* Style the headings */
+.child {
+    font-size: 18px; /* Font size for headings */
+    color: #555; /* Text color for headings */
+}
+
+/* Style the list items */
+ul {
+    list-style-type: none; /* Remove bullet points from lists */
+    padding-left: 0; /* Remove default left padding from lists */
+}
+
+/* Style the list items (links) */
+ul li a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #007bff; /* Link color */
+}
+
+/* Style the list items on hover */
+ul li a:hover {
+    color: #0056b3; /* Hover color */
+}
